@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>sample</OriginalElement>
+  <nodes>
+    <node x="352.7083333333333" y="0.0">sample.Main</node>
+    <node x="0.0" y="125.701171875">sample.ContactController</node>
+    <node x="71.70833333333333" y="363.701171875">sample.Controller</node>
+    <node x="85.45833333333334" y="5.701171875">sample.datamodel</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="251.0" y="275.5" />
+  <SelectedNodes>
+    <node>sample.datamodel</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

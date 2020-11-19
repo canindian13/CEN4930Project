@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Luffy</first_name>
+	<last_name>strawhat</last_name>
+	<phone_number>1,500,000,000</phone_number>
+	<notes>Future Pirate King</notes>
+</contact>
+<contact>
+	<first_name>Izuku</first_name>
+	<last_name>Midoriya</last_name>
+	<phone_number>12345678</phone_number>
+	<notes>NUMBER 1 HERO</notes>
+</contact>
+<contact>
+	<first_name>buggs </first_name>
+	<last_name>bunny</last_name>
+	<phone_number>69696969</phone_number>
+	<notes>whats up doc </notes>
+</contact>
+<contact>
+	<first_name>Naruto</first_name>
+	<last_name>Uzamaki</last_name>
+	<phone_number>1234321</phone_number>
+	<notes>7th Hokage</notes>
+</contact>
+</contacts>
